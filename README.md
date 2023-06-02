@@ -13,7 +13,7 @@ This program is made for the analysis of covid cases between 29/06/2020 - 23/11/
 ![image](https://github.com/mustafabaykus/tr_covid_analysis/assets/81719028/6682e458-4e10-4afb-b393-d69ca1dd2647)
 
 
-## Resources
+## Resources :newspaper:
 * https://turcovid19.com/acikveri/
 * https://www.kaggle.com/datasets/gkhan496/covid19-in-turkey?resource=download
 
